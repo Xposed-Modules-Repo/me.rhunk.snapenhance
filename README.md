@@ -5,6 +5,9 @@ If you experience any issues feel free to open an issue on our [repo](https://gi
 Tested on **12.38.0.45** - Auto Mapper!<br>
 https://github.com/rhunk/SnapEnhance
 
+Official CI Builds can be found on [here](https://t.me/snapenhance_ci)
+Please take note that these builds are experimental and might not work as intended, use at your own risk!
+
 ## Features
 <details open>
   <summary>Spying & Privacy</summary>
