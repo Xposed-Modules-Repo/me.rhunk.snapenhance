@@ -42,7 +42,7 @@ Please take note that these builds are experimental and might not work as intend
   - Disable Camera
   - Immersive Camera Preview (Fix Snapchat's camera bug)
   - Hide certain UI Elements
-  - Show Streak Experation Info
+  - Show Streak Expiration Info
   - Disable Snap Splitting
   - Disable Video Length Restriction
   - Snapchat Plus
