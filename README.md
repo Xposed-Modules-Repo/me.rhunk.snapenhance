@@ -51,6 +51,7 @@ Please take note that these builds are experimental and might not work as intend
   - Disable Spotlight
   - Enable Official App Appearance Settings (Darkmode)
   - Pin Conversations
+  - Multi Snap Limit bypass
 </details>
 
 <details open>
@@ -60,6 +61,7 @@ Please take note that these builds are experimental and might not work as intend
   - Infinite Story Boost
   - My Eyes Only Bypass
   - AMOLED Dark Mode
+  - Chat Export (HTML, JSON and TXT)
 </details>
 
 ### Licensed under [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text)
