@@ -2,7 +2,7 @@
 An Xposed app meant to enhance your Snapchat Experience<br>
 If you experience any issues feel free to open an issue on our [repo](https://github.com/rhunk/SnapEnhance/issues)
 
-Tested on **12.40.0.43** - Auto Mapper!<br>
+Tested on **12.44.0.59** - Auto Mapper!<br>
 https://github.com/rhunk/SnapEnhance
 
 Official CI Builds can be found on [here](https://t.me/snapenhance_ci)<br>
@@ -52,6 +52,7 @@ Please take note that these builds are experimental and might not work as intend
   - Enable Official App Appearance Settings (Darkmode)
   - Pin Conversations
   - Multi Snap Limit bypass
+  - Override Startup Page
 </details>
 
 <details open>
