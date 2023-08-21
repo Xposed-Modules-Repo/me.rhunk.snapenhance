@@ -2,7 +2,7 @@
 An Xposed app meant to enhance your Snapchat Experience<br>
 If you experience any issues feel free to open an issue on our [repo](https://github.com/rhunk/SnapEnhance/issues)
 
-Tested on **12.45.0.55** - Auto Mapper!<br>
+Tested on **12.48.0.66** - Auto Mapper!<br>
 https://github.com/rhunk/SnapEnhance
 
 Official CI Builds can be found on [here](https://t.me/snapenhance_ci)<br>
