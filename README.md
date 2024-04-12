@@ -2,7 +2,7 @@
 An Xposed app meant to enhance your Snapchat Experience<br>
 If you experience any issues feel free to open an issue on our [repo](https://github.com/rhunk/SnapEnhance/issues)
 
-Tested on **12.80.1.0** - Auto Mapper!<br>
+Tested on **12.81.0.44** - Auto Mapper!<br>
 https://github.com/rhunk/SnapEnhance
 
 Official CI Builds can be found on [here](https://t.me/snapenhance_ci)<br>
@@ -98,6 +98,7 @@ Please take note that these builds are experimental and might not work as intend
   - `Force Upload Source Quality`
   - `Default Volume Controls`
   - `Disable Snap Splitting`
+  - `Hide Active Music`
 </details>
 
 <details closed>
