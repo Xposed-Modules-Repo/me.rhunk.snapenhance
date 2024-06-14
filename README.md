@@ -1,3 +1,6 @@
+# WARNING!
+Module is currently detected, you will get banned for using this.
+
 ## SnapEnhance
 An Xposed app meant to enhance your Snapchat Experience<br>
 If you experience any issues feel free to open an issue on our [repo](https://github.com/rhunk/SnapEnhance/issues)
